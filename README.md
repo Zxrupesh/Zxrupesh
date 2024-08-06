@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Zxrupesh
-- 👀 I’m interested in Designing, Coding, Animation.
+- 👀 I’m interested in Programming, Codeing & Animations.
 - 🌱 I’m currently learning to sleep properly
 - 💞️ I’m looking to collaborate on my projects
 - 📫 How to reach me. Just search me in google
