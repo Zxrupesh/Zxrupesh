@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Zxrupesh
-- 👀 I’m interested in Programming, Codeing & Animations.
-- 🌱 I’m currently learning to sleep properly
-- 💞️ I’m looking to collaborate on my projects
-- 📫 How to reach me. Just search me in google
+- 👋 Hi, I’m Zxrupesh.
+- 👀 I’m interested in Programming, Web Dev, Animating & Gamming.
+- 🌱 I’m currently learning Python and Backend.
+- 💞️ I’m looking for people who can help me.
+- 📫 How to reach me ? you can use my social media links.
 
 <!---
 Zxrupesh/Zxrupesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
